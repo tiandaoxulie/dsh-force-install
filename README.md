@@ -20,7 +20,6 @@ DeepSeek Harness插件的强制安装工具.基于 pnpm 解决 already-installed
   dsh-force-install.cmd     ← 双击这个启动（主入口）
   dsh-force-install.ps1     ← 核心逻辑，不要单独双击它
   清理DSH备份.bat           ← 可选，备份清理工具
-  使用说明.txt              ← 本文件
 
 ## 🚀 快速上手（3 步）
 
